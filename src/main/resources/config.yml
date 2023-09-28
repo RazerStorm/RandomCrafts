@@ -1,0 +1,3 @@
+# When crafting an item a random item will be used,
+# here you can choose if it should keep using that item for the recipe
+always-random: false

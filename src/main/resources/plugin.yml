@@ -1,0 +1,4 @@
+name: RandomCrafts
+version: '${version}'
+main: be.razerstorm.randomcrafts.RandomCrafts
+api-version: '1.20'
